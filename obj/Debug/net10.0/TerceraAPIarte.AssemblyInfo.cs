@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TerceraAPIarte")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+611ee3830a5efa682a4ddab0c6c8ece4c4e9f85e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca9da52b2aef94f40e1308cae193abb852e43c6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TerceraAPIarte")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TerceraAPIarte")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
